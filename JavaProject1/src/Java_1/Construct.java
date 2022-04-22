@@ -25,7 +25,7 @@ public class Construct {
 	{
 		this(15,30);
 		System.out.println("Four parameterized Constructor");
-		System.out.println("Four parameterized Constructor done");
+		
 	}
 	public static void main(String[] args) {
 		
